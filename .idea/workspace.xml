@@ -2,14 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="99ae66c5-df2d-44ca-bac0-e97f3fd43afd" name="Changes" comment="Pro">
-      <change afterPath="$PROJECT_DIR$/src/Lesoon18_Ex2/MinClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson18_EX1/DoubleValues.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson18_Ex3/FindFamily.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson18_Ex4/FunClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson20_Ex1/FaliSnake.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson20_Ex1/Snake1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson20_Ex2/Faloin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson20_Ex2/NewAnimal.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ForAnnoota.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson21_Ex1/ForReflect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson21_Ex2/AnotaMathMy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson21_Ex2/Refl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -21,6 +18,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="AnnotationType" />
       </list>
     </option>
   </component>
@@ -43,22 +41,9 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Faloin">
-    <configuration name="FaliSnake" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson20_Ex1.FaliSnake" />
-      <module name="javaProo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lesson20_Ex1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Falio" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EST.Falio" />
+  <component name="RunManager" selected="Application.Refl">
+    <configuration name="ForAnn" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EST.ForAnn" />
       <module name="javaProo" />
       <extension name="coverage">
         <pattern>
@@ -70,12 +55,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Faloin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson20_Ex2.Faloin" />
+    <configuration name="ForReflect" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson21_Ex1.ForReflect" />
       <module name="javaProo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lesson20_Ex2.*" />
+          <option name="PATTERN" value="Lesson21_Ex1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,12 +68,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FunClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson18_Ex4.FunClass" />
+    <configuration name="Forref" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EST.Test1.Forref" />
       <module name="javaProo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lesson18_Ex4.*" />
+          <option name="PATTERN" value="EST.Test1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,12 +81,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MinClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesoon18_Ex2.MinClass" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EST.Test1.Main" />
       <module name="javaProo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lesoon18_Ex2.*" />
+          <option name="PATTERN" value="EST.Test1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Refl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson21_Ex2.Refl" />
+      <module name="javaProo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson21_Ex2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,11 +109,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Faloin" />
-        <item itemvalue="Application.FaliSnake" />
-        <item itemvalue="Application.Falio" />
-        <item itemvalue="Application.FunClass" />
-        <item itemvalue="Application.MinClass" />
+        <item itemvalue="Application.Refl" />
+        <item itemvalue="Application.ForReflect" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Forref" />
+        <item itemvalue="Application.ForAnn" />
       </list>
     </recent_temporary>
   </component>
@@ -149,7 +147,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676209428771</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Pro">
+      <created>1677349220233</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1677349220233</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
